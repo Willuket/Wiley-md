@@ -16,10 +16,10 @@ global.prems = []
 global.bname = 'Will-md'     //Your Bot Name
 global.oname = 'Will'     //Your Name
 global.onum = '2347025235185' //Number for status forwarding 
-global.iglink = 'https://Instagram.com/error.mods'     //Your Instagram Link
-global.ytlink = 'https://YouTube.com/@errormodsyt'      //Your YouTube Channel Link
-global.gclink = 'https://chat.whatsapp.com/F8QOoaz3qWqJlI2mwpa1QH' //Your WhatsApp Group Link
-global.script = 'https://github.com/Shizothetechie/wiley-md'  //Donot Change if you appreciate our work 🙂❤️
+global.iglink = 'https://Instagram.com/'     //Your Instagram Link
+global.ytlink = 'https://YouTube.com/'      //Your YouTube Channel Link
+global.gclink = 'https://chat.whatsapp.com/' //Your WhatsApp Group Link
+global.script = 'https://github.com/'  //Donot Change if you appreciate our work 🙂❤️
 
 
 
